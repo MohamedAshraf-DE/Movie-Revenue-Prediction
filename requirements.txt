@@ -1,1 +1,6 @@
-pandas==2.1.4numpy==1.26.3streamlit==1.30.0scikit-learn==1.3.2joblib==1.3.2requests==2.31.0
+pandas==2.1.4
+numpy==1.26.3
+streamlit==1.30.0
+scikit-learn==1.3.2
+joblib==1.3.2
+requests==2.31.0
