@@ -1,1 +1,5 @@
-pandasnumpystreamlitscikit-learnjoblibrequests
+pandasnumpy
+streamlit
+scikit-learn
+joblib
+requests
